@@ -1,1 +1,1 @@
-FROM node:20.0-bullseye-slim
+FROM node:20.12-bullseye-slim
